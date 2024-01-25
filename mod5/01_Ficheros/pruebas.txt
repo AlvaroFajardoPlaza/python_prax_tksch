@@ -1,0 +1,6 @@
+Hola que tal estas
+Esto es una prueba
+Hoy no llueve
+Se acerca la navidad
+Hasta luego y muy buenas
+Nueva línea de texto dentro de mi fichero de prueba.
